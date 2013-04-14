@@ -16,6 +16,7 @@ tmp/**/*
 *.swp
 *~.nib
 .loadpath
+**/bin/**
 
 # External tool builders
 .externalToolBuilders/
